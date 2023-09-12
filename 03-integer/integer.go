@@ -9,7 +9,7 @@ func main() {
 	// different ways to declare a integer variable
 	var age = 24
 	// var age int64 = 24
-	// var age = 24
+	// var age := 24
 
 	//printing integer
 	fmt.Println(age)
