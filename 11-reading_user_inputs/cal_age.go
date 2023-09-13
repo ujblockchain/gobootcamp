@@ -12,15 +12,15 @@ func main() {
 	//init a reader to read from the terminal
 	reader := bufio.NewReader(os.Stdin)
 
-	//read user input for name
+	//read user input for name, we ignore the error for now
 	fmt.Print("Enter your full name: ")
 	name, _ := reader.ReadString('\n')
 
-	//read user input for year
+	//read user input for year, we ignore the error for now
 	fmt.Print("Enter current year: ")
 	year, _ := reader.ReadString('\n')
 
-	//read user input for dob
+	//read user input for dob, we ignore the error for now
 	fmt.Print("Enter your date of birth: ")
 	DOB, _ := reader.ReadString('\n')
 
