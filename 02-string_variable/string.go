@@ -9,7 +9,7 @@ func main() {
 	// different ways to declare a variable
 	var name = "John Deo"
 	// var name string = "John Deo"
-	// var name := "John Deo"\
+	// name := "John Deo"
 
 	//you can also print a variable using fmt Print
 	//fmt.Print(name)

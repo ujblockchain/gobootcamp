@@ -9,7 +9,7 @@ func main() {
 	// different ways to declare a boolean variables
 	var isStudent = true
 	// var isStudent bool = true
-	// var isStudent := true
+	// isStudent := true
 
 	//printing boolean
 	fmt.Println(isStudent)

@@ -9,7 +9,7 @@ func main() {
 	// different ways to declare a float variable
 	var burgerPrice = 24.57
 	// var burgerPrice float64 = 24.56
-	// var burgerPrice := 24.56
+	// burgerPrice := 24.56
 
 	//printing integer
 	fmt.Println(burgerPrice)

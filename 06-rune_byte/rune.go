@@ -9,7 +9,7 @@ func main() {
 	// different ways to declare a rune variable
 	var countryCurrency = '€'
 	// var countryCurrency rune = '€'
-	// var countryCurrency := '€'
+	// countryCurrency := '€'
 
 	//printing rune storage number
 	fmt.Println(countryCurrency)
